@@ -1,4 +1,4 @@
-<h1 align="center">🔑 TokenAgheo</h1>
+
 
 <p align="center">
   <img src="https://files.catbox.moe/sk2bq7.jpg" alt="TokenAgheo Banner" width="80%">
@@ -11,6 +11,7 @@ Repositori ini digunakan untuk menyimpan **database token** dalam format `tokens
 Dibuat khusus untuk kebutuhan project bot pribadi.  
 
 ---
+<h1 align="center">🔑 official agheo</h1>
 
 ## 📂 Sosmed Agheo
 Channel : **@agheoinfo**
