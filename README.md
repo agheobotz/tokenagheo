@@ -12,4 +12,9 @@ Dibuat khusus untuk kebutuhan project bot pribadi.
 
 ---
 
-## 📂 Struktur Repository
+## 📂 Sosmed Agheo
+Channel : **@agheoinfo**
+developer : **@jangansoasikdeh**
+Grup Bot : **@roompublikke1**
+
+https://t.me/jangnsoasikdeh
