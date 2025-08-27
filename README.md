@@ -1,22 +1,15 @@
-# 🔑 TokenAgheo
+<h1 align="center">🔑 TokenAgheo</h1>
 
-<img src="[https://i.ibb.co/9HZqD4K/github-banner.png](https://files.catbox.moe/sk2bq7.jpg)" alt="TokenAgheo Banner" width="100%">
+<p align="center">
+  <img src="https://files.catbox.moe/sk2bq7.jpg" alt="TokenAgheo Banner" width="80%">
+</p>
 
 ---
 
 ## 📌 Tentang
-Repositori ini berisi file `tokens.json` untuk menyimpan token bot.  
-📂 Digunakan sebagai database kecil pada project bot pribadi.  
+Repositori ini digunakan untuk menyimpan **database token** dalam format `tokens.json`.  
+Dibuat khusus untuk kebutuhan project bot pribadi.  
 
 ---
 
-## 📂 Isi Repository
-- `tokens.json` → menyimpan token
-- `README.md` → dokumentasi
-
----
-
-## 🚀 Cara Pakai
-```js
-const tokens = require("./tokens.json")
-console.log(tokens)
+## 📂 Struktur Repository
